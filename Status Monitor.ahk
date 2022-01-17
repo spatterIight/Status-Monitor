@@ -1,5 +1,3 @@
-﻿; @derezzedDev
-
 #SingleInstance Force
 SendMode Input
 SetWorkingDir %A_ScriptDir%
@@ -183,7 +181,7 @@ readme:
    Gui, 2:Font, s10, Courier New
    Gui, 2:Add, Text, x5 y+0,`nContact:
    Gui, 2:Font, s8, Courier New
-   Gui, 2:Add, Text, x20 y+0, @derezzedDev`nFeel free to shoot me a question or suggestion!
+   Gui, 2:Add, Text, x20 y+0, Feel free to shoot me a question or suggestion!
    Gui, 2:Show,, readme
 return
  
